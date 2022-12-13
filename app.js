@@ -3,35 +3,35 @@ const products = [
         id: 1,
         marca: "cambre",
         model: "bauhaus",
-        img: "../imgs/bauhaus-green-doble-toma.jpg",
+        img: "./imgs/bauhaus-green-doble-toma.jpg",
         info: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolor obcaecati ipsum praesentium. Quidem dolorum fuga, nostrum harum dicta odit. Rem cumque libero nisi doloremque repudiandae optio ad veritatis !"
     },
     {
         id: 2,
         marca: "cambre",
         model: "bauhaus",
-        img: "../imgs/bauhaus-madera-3p.jpg",
+        img: "./imgs/bauhaus-madera-3p.jpg",
         info: "Lorem ipsum  sit amet consectetur adipisicing elit. Unde dolor obcaecati ipsum praesentium.  dolorum fuga, nostrum harum dicta odit. Rem cumque libero nisi doloremque repudiandae optio ad veritatis molestiae!"
     },
     {
         id: 3,
         marca: "cambre",
         model: "bauhaus",
-        img: "../imgs/bauhaus-madera.jpg",
+        img: "./imgs/bauhaus-madera.jpg",
         info: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolor obcaecati ipsum praesentium. Quidem dolorum fuga, nostrum harum dicta odit. Rem cumque libero nisi doloremque repudiandae optio veritatis molestiae!"
     },
     {
         id: 4,
         marca: "cambre",
         model: "bauhaus",
-        img: "../imgs/bauhaus-orange-2p-1t.jpg",
+        img: "./imgs/bauhaus-orange-2p-1t.jpg",
         info: "Lorem ipsum dolor sit ametr adipisicing elit. Unde dolor obcaecati ipsum praesentium. Quidem dolorum fuga, nostrum harum dicta odit. Rem cumque libero nisi doloremque repudiandae optio ad veritatis molestiae!"
     },
     {
         id: 5,
         marca: "cambre",
         model: "bauhaus",
-        img: "../imgs/bauhaus-red-2p-1t.jpg",
+        img: "./imgs/bauhaus-red-2p-1t.jpg",
         info: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolor obcaecati ipsum praesentium. Quidem dolorum fuga, nostrum harum dicta odit. Rem cumque libero nisi doloremque repudiandae optio ad  molestiae!"
     },
 ]
